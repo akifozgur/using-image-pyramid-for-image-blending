@@ -34,12 +34,12 @@ coarse features in the lower levels to fine details in the higher levels.
 </p>
 
 ### Key Components of Laplacian Pyramids
-  Gaussian Pyramid: Initially, the original image is repeatedly
+- Gaussian Pyramid: Initially, the original image is repeatedly
 smoothed and downsampled to create a series of images at different
 scales, forming the Gaussian pyramid. Each level of the Gaussian
 pyramid represents a progressively downsampled and blurred version of
 the original image.
-  Laplacian Representation: The Laplacian pyramid is derived by
+- Laplacian Representation: The Laplacian pyramid is derived by
 taking the difference between each level of the Gaussian pyramid and
 an upsampled version of its smoothed counterpart from the previous
 level. This process results in a set of images capturing the residual
