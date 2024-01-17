@@ -36,7 +36,7 @@ DoG image is subjected to a thresholding process to determine edges.
 <img src=https://github.com/akifozgur/using-image-pyramid-for-image-blending/blob/main/img/edge.png>
 </p>
 
-## Image Quantization
+### Image Quantization
 Image quantization is a process used in digital image processing
 to reduce the number of distinct colors or levels of brightness in an
 image while preserving its visual quality to a reasonable extent. It
