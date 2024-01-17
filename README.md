@@ -75,3 +75,12 @@ by combining details from different scales in a seamless manner.
 First Input                |  Second Input             |   Output Image
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](https://github.com/akifozgur/using-image-pyramid-for-image-blending/blob/main/input%20images/even/sky1.jpg)   |  ![](https://github.com/akifozgur/using-image-pyramid-for-image-blending/blob/main/input%20images/even/sky2.jpg)| ![](https://github.com/akifozgur/using-image-pyramid-for-image-blending/blob/main/output_images/sky.jpg)
+
+
+First Input                |  Second Input             |   Output Image
+:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/akifozgur/using-image-pyramid-for-image-blending/blob/main/input%20images/even/bird1.jpg)   |  ![](https://github.com/akifozgur/using-image-pyramid-for-image-blending/blob/main/input%20images/even/bird2.jpg)| ![](https://github.com/akifozgur/using-image-pyramid-for-image-blending/blob/main/output_images/bird.jpg)
+
+First Input                |  Output Image           
+:-------------------------:|:-------------------------:
+![](https://github.com/akifozgur/using-image-pyramid-for-image-blending/blob/main/input%20images/odd/monolisa.jpg)   |  ![](https://github.com/akifozgur/using-image-pyramid-for-image-blending/blob/main/output_images/monolisa.jpg)
