@@ -1,4 +1,4 @@
-lapla## Introduction
+## Introduction
 
   Image blending is a pivotal technique in image processing, integral
 to creating visually compelling compositions. Its primary objective is to
