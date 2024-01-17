@@ -1,4 +1,4 @@
-## Introduction
+lapla## Introduction
 
   Image blending is a pivotal technique in image processing, integral
 to creating visually compelling compositions. Its primary objective is to
@@ -30,7 +30,7 @@ series of images, each emphasizing different levels of detail, from
 coarse features in the lower levels to fine details in the higher levels.
 
 <p align="center"> 
-<img src=https://github.com/akifozgur/using-image-pyramid-for-image-blending/blob/main/img/gaussian.png>
+<img src=https://github.com/akifozgur/using-image-pyramid-for-image-blending/blob/main/img/laplacian.png>
 </p>
 
 ### Key Components of Laplacian Pyramids
@@ -67,7 +67,7 @@ into a single image, ensuring a cohesive and visually consistent output
 by combining details from different scales in a seamless manner.
 
 <p align="center"> 
-<img src=https://github.com/akifozgur/using-image-pyramid-for-image-blending/blob/main/img/gaussian.png>
+<img src=https://github.com/akifozgur/using-image-pyramid-for-image-blending/blob/main/img/reconstruct.png>
 </p>
 
 ## Some Result Images
