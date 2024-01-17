@@ -68,9 +68,11 @@ Note: In this project, I used K-Means Clustering as Color Reduction.
 Palette Creation: After reducing the colors, a palette is generated
 that contains the representative colors chosen during the quantization
 process.
+
 Assigning Indices: Each pixel in the image is then mapped or
 associated with an index in the generated palette, effectively replacing
 the original colors with indices pointing to colors in the palette.
+
 Reconstruction: Finally, the image is reconstructed using the
 reduced color palette. This reconstructed image often looks very
 similar to the original but with a smaller file size due to the reduced
